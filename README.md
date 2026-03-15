@@ -1,8 +1,8 @@
 # Jenn Dwyer
 
-**Ops, not dev.** I think in systems, not scripts.
-
-I write clean runbooks so 3 AM me doesn't forget what 10 AM me discovered.
+**Ops, not dev:** 
+ - I think in systems, not scripts.
+ - I write clean runbooks so 3 AM me doesn't forget what 10 AM me discovered.
 
 **Background:** Data mediation systems, FreeBSD, bash, regex, boringly resilient infrastructure.
 
