@@ -1,16 +1,13 @@
-## Hi there 👋
+# Jenn Dwyer
 
-<!--
-**jenn-dwyer/jenn-dwyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ops, not dev.** I think in systems, not scripts.
 
-Here are some ideas to get you started:
+I write clean runbooks so 3 AM me doesn't forget what 10 AM me discovered.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** Data mediation systems, FreeBSD, bash, regex, boringly resilient infrastructure.
+
+**Currently:** AWS Cloud Practitioner certification, Python tooling, cloud pivot.
+
+**Certified:** CompTIA Security+ (2019 - 2022)
+
+📫 [LinkedIn](https://www.linkedin.com/in/jennifer-dwyer-7408145/)
